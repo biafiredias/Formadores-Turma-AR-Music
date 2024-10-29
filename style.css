@@ -2,3 +2,9 @@
     background-color: rgb(2, 2, 70);
     color: white;
  }
+ section {
+   background: rgb(rgb(235, 92, 92), rgb(79, 161, 79), rgb(127, 127, 226));
+   padding-top: 80px;
+   padding-bottom: 80px;
+
+ }
