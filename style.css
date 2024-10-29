@@ -16,3 +16,8 @@
  img {
    height: 100px;
  }
+ .categoria-videos {
+   display: flex;
+   overflow-x: auto;
+   
+ }
